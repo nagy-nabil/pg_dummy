@@ -1,4 +1,4 @@
-# pg_backup
+# pg_dummy
 
 simple cli to load pg database schema and save all of the tables content as `csv`/`json` files in a folder.
 

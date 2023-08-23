@@ -1,7 +1,7 @@
 {
-    "name": "ts-cli",
+    "name": "pg_dummy",
     "version": "1.0.0",
-    "description": "",
+    "description": "simple cli to load pg database schema and save all of the tables content as `csv`/`json` files in a folder.",
     "main": "index.js",
     "type": "module",
     "scripts": {
